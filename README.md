@@ -2,9 +2,11 @@
   <img src="https://github.com/KhaledEkramy/github-gif/raw/main/githubGif.gif" alt="GIF" width="100%" height="400">
 </p>
 
-
-
 ![visitors](https://vbr.wocr.tk/badge?page_id=KhaledEkramy.KhaledEkramy&color=00cf00)
+
+<p><strong >" I'm currently in my third academic year studying Systems and Computer Engineering. My goal is to excel in the field of Machine Learning. Although I understand it won't be easy, I'm determined to work hard and make significant progress. "</strong></p>
+
+
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🔭 I'm currently honing my problem-solving skills alongside my studies.
