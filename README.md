@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/KhaledEkramy/github-gif/raw/main/githubGif.gif" alt="GIF" width="100%" height="400">
+  <img src="https://github.com/KhaledEkramy/github-gif/blob/main/intro.gif" alt="GIF" width="100%" height="400">
 </p>
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=KhaledEkramy.KhaledEkramy&color=00cf00)
