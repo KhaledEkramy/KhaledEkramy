@@ -29,6 +29,8 @@
   <br>
   <a href="https://www.buymeacoffee.com/aveek.saha"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </p>
+[Click to Illuminate]([Click to Illuminate](https://your-github-pages-url.com/illuminate.html)
+)
 
 
 
