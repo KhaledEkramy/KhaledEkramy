@@ -1,11 +1,12 @@
+<p align="center" >
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Computer+Science+Student+💻;A+Passionate+Programmer+🧑‍💻;A+Machine+Learning+Student+🪟;DS%20|%20Algorithms%20|%20OOPs%20;Active%20learner+❤️;Java%20|%20CPP%20|%20Linear+Algebra%20|%20Statistics%20|%20Probability🍃%20&center=true&width=550&height=50"></a>
+</p>
 <p align="left" width ="100%" height = "400">
   
-  <img src="https://github.com/KhaledEkramy/account-gif-photo/raw/main/githubGif.gif" alt="GIF" width="70%" height="400">
+  <img src="https://github.com/KhaledEkramy/account-gif-photo/raw/main/githubGif.gif" alt="GIF" align="left" width="70%" height="400">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="right" height="400" width="30%"> 
   
 </p>
-
-
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=KhaledEkramy.KhaledEkramy&color=00cf00)
 
