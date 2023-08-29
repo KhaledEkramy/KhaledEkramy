@@ -1,5 +1,6 @@
 <p align="left" width ="100%" height = "400">
-  <img src="https://github.com/KhaledEkramy/account-gif-photo/raw/main/githubGif.gif" alt="GIF" width="100%" height="400">
+  <img src="https://github.com/KhaledEkramy/account-gif-photo/raw/main/githubGif.gif" alt="GIF" width="70%" height="400">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" align="right" height="400" width="30%"> 
 </p>
 
 
